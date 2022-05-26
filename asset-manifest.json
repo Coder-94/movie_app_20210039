@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SeungHyunO/movie_app_20210039/static/css/main.ebbe1a0a.css",
+    "main.js": "/SeungHyunO/movie_app_20210039/static/js/main.39919553.js",
+    "index.html": "/SeungHyunO/movie_app_20210039/index.html",
+    "main.ebbe1a0a.css.map": "/SeungHyunO/movie_app_20210039/static/css/main.ebbe1a0a.css.map",
+    "main.39919553.js.map": "/SeungHyunO/movie_app_20210039/static/js/main.39919553.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebbe1a0a.css",
+    "static/js/main.39919553.js"
+  ]
+}
